@@ -210,10 +210,10 @@ nav ul li:hover, nav ul li.active {
 }
 
 .sectiondivider img {
-  width:200px;
-  height:220px; /* 240px */
+  width:300px;
+  height:300px; /* 240px */
   position: static;
-  margin-top: 0px; /* -20px */
+  margin-top: -8px; /* -20px */
 }
 
 .sectiondivider .fa-stack {
